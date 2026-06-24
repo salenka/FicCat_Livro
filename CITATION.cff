@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FicCat - Book Cataloging Card Generator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sandra
+    family-names: Alencar
+    email: salenka@gmail.com
+    affiliation: São Paulo State University (UNESP)
+    orcid: 'https://orcid.org/0009-0002-8128-1619'
+repository-code: 'https://github.com/salenka/FicCat_Livro'
+url: 'https://salenka.github.io/FicCat_Livro/'
+abstract: >-
+  Static web application that generates cataloging cards for
+  monograph publication from a form. It supports previewing
+  the result, adjusting font/size, exporting as PNG, and
+  producing an A4/PDF preview including license and credits.
+keywords:
+  - Cataloging card
+  - Libraries
+  - Book publishing
+  - Cataloging in publication
+  - E-book publishing
+  - Digital book publishing
+license: CC-BY-4.0
+commit: ddb8302d7410f0b00a810bc20a7e62a89a58eec3
+version: '1.0'
+date-released: '2026-06-24'
