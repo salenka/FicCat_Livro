@@ -1,12 +1,12 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: FicCat - Book Cataloging Card Generator
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20831935
 authors:
   - given-names: Sandra
     family-names: Alencar
@@ -29,5 +29,5 @@ keywords:
   - Digital book publishing
 license: CC-BY-4.0
 commit: ddb8302d7410f0b00a810bc20a7e62a89a58eec3
-version: '1.0'
+version: '1.0.0'
 date-released: '2026-06-24'
